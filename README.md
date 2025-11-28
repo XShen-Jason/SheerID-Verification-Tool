@@ -133,7 +133,7 @@ Create a new browser profile or use incognito mode to avoid data conflicts.
 
 1. Open Telegram and access one of these bots:
    - [SheerID Verify Bot](https://t.me/sheeridverify_bot?start=invite_7762497789)
-   - [SheerID VIP Bot](https://t.me/SheerID_VIP_Bot?start=ref_REF001124)
+   - [SheerID VIP Bot](https://t.me/SheerID_VIP_Bot?start=ref_REF028128)
 
 2. Send this command:
    ```
